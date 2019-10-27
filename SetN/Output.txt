@@ -1,0 +1,812 @@
+"C:\Program Files\Java\jdk-11.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.2\lib\idea_rt.jar=60578:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\addis\OneDrive\Documents\Algorithms\Projects\SetN\out\production\SetN nSet
+found 0 in A
+found 1 in A
+found 2 in A
+found 3 in A
+found 4 in A
+found 5 in A
+found 7 in A
+found 8 in A
+found 9 in A
+found 15 in A
+found 16 in A
+found 17 in A
+found 31 in A
+found 32 in A
+found 33 in A
+found 63 in A
+found 64 in A
+found 65 in A
+found 127 in A
+found 128 in A
+found 129 in A
+found 255 in A
+found 256 in A
+found 257 in A
+found 511 in A
+found 512 in A
+found 513 in A
+found 1 in B
+found 2 in B
+found 4 in B
+found 8 in B
+found 16 in B
+found 32 in B
+found 64 in B
+found 128 in B
+found 256 in B
+found 512 in B
+found 1 in C
+found 3 in C
+found 5 in C
+found 7 in C
+found 9 in C
+found 11 in C
+found 13 in C
+found 15 in C
+found 17 in C
+found 19 in C
+found 21 in C
+found 23 in C
+found 25 in C
+found 27 in C
+found 29 in C
+found 31 in C
+found 33 in C
+found 35 in C
+found 37 in C
+found 39 in C
+found 41 in C
+found 43 in C
+found 45 in C
+found 47 in C
+found 49 in C
+found 51 in C
+found 53 in C
+found 55 in C
+found 57 in C
+found 59 in C
+found 61 in C
+found 63 in C
+found 65 in C
+found 67 in C
+found 69 in C
+found 71 in C
+found 73 in C
+found 75 in C
+found 77 in C
+found 79 in C
+found 81 in C
+found 83 in C
+found 85 in C
+found 87 in C
+found 89 in C
+found 91 in C
+found 93 in C
+found 95 in C
+found 97 in C
+found 99 in C
+found 101 in C
+found 103 in C
+found 105 in C
+found 107 in C
+found 109 in C
+found 111 in C
+found 113 in C
+found 115 in C
+found 117 in C
+found 119 in C
+found 121 in C
+found 123 in C
+found 125 in C
+found 127 in C
+found 129 in C
+found 131 in C
+found 133 in C
+found 135 in C
+found 137 in C
+found 139 in C
+found 141 in C
+found 143 in C
+found 145 in C
+found 147 in C
+found 149 in C
+found 151 in C
+found 153 in C
+found 155 in C
+found 157 in C
+found 159 in C
+found 161 in C
+found 163 in C
+found 165 in C
+found 167 in C
+found 169 in C
+found 171 in C
+found 173 in C
+found 175 in C
+found 177 in C
+found 179 in C
+found 181 in C
+found 183 in C
+found 185 in C
+found 187 in C
+found 189 in C
+found 191 in C
+found 193 in C
+found 195 in C
+found 197 in C
+found 199 in C
+found 201 in C
+found 203 in C
+found 205 in C
+found 207 in C
+found 209 in C
+found 211 in C
+found 213 in C
+found 215 in C
+found 217 in C
+found 219 in C
+found 221 in C
+found 223 in C
+found 225 in C
+found 227 in C
+found 229 in C
+found 231 in C
+found 233 in C
+found 235 in C
+found 237 in C
+found 239 in C
+found 241 in C
+found 243 in C
+found 245 in C
+found 247 in C
+found 249 in C
+found 251 in C
+found 253 in C
+found 255 in C
+found 257 in C
+found 259 in C
+found 261 in C
+found 263 in C
+found 265 in C
+found 267 in C
+found 269 in C
+found 271 in C
+found 273 in C
+found 275 in C
+found 277 in C
+found 279 in C
+found 281 in C
+found 283 in C
+found 285 in C
+found 287 in C
+found 289 in C
+found 291 in C
+found 293 in C
+found 295 in C
+found 297 in C
+found 299 in C
+found 301 in C
+found 303 in C
+found 305 in C
+found 307 in C
+found 309 in C
+found 311 in C
+found 313 in C
+found 315 in C
+found 317 in C
+found 319 in C
+found 321 in C
+found 323 in C
+found 325 in C
+found 327 in C
+found 329 in C
+found 331 in C
+found 333 in C
+found 335 in C
+found 337 in C
+found 339 in C
+found 341 in C
+found 343 in C
+found 345 in C
+found 347 in C
+found 349 in C
+found 351 in C
+found 353 in C
+found 355 in C
+found 357 in C
+found 359 in C
+found 361 in C
+found 363 in C
+found 365 in C
+found 367 in C
+found 369 in C
+found 371 in C
+found 373 in C
+found 375 in C
+found 377 in C
+found 379 in C
+found 381 in C
+found 383 in C
+found 385 in C
+found 387 in C
+found 389 in C
+found 391 in C
+found 393 in C
+found 395 in C
+found 397 in C
+found 399 in C
+found 401 in C
+found 403 in C
+found 405 in C
+found 407 in C
+found 409 in C
+found 411 in C
+found 413 in C
+found 415 in C
+found 417 in C
+found 419 in C
+found 421 in C
+found 423 in C
+found 425 in C
+found 427 in C
+found 429 in C
+found 431 in C
+found 433 in C
+found 435 in C
+found 437 in C
+found 439 in C
+found 441 in C
+found 443 in C
+found 445 in C
+found 447 in C
+found 449 in C
+found 451 in C
+found 453 in C
+found 455 in C
+found 457 in C
+found 459 in C
+found 461 in C
+found 463 in C
+found 465 in C
+found 467 in C
+found 469 in C
+found 471 in C
+found 473 in C
+found 475 in C
+found 477 in C
+found 479 in C
+found 481 in C
+found 483 in C
+found 485 in C
+found 487 in C
+found 489 in C
+found 491 in C
+found 493 in C
+found 495 in C
+found 497 in C
+found 499 in C
+found 501 in C
+found 503 in C
+found 505 in C
+found 507 in C
+found 509 in C
+found 511 in C
+found 513 in C
+found 515 in C
+found 517 in C
+found 519 in C
+found 521 in C
+found 523 in C
+found 525 in C
+found 527 in C
+found 529 in C
+found 531 in C
+found 533 in C
+found 535 in C
+found 537 in C
+found 539 in C
+found 541 in C
+found 543 in C
+found 545 in C
+found 547 in C
+found 549 in C
+found 551 in C
+found 553 in C
+found 555 in C
+found 557 in C
+found 559 in C
+found 561 in C
+found 563 in C
+found 565 in C
+found 567 in C
+found 569 in C
+found 571 in C
+found 573 in C
+found 575 in C
+found 577 in C
+found 579 in C
+found 581 in C
+found 583 in C
+found 585 in C
+found 587 in C
+found 589 in C
+found 591 in C
+found 593 in C
+found 595 in C
+found 597 in C
+found 599 in C
+found 601 in C
+found 603 in C
+found 605 in C
+found 607 in C
+found 609 in C
+found 611 in C
+found 613 in C
+found 615 in C
+found 617 in C
+found 619 in C
+found 621 in C
+found 623 in C
+found 625 in C
+found 627 in C
+found 629 in C
+found 631 in C
+found 633 in C
+found 635 in C
+found 637 in C
+found 639 in C
+found 641 in C
+found 643 in C
+found 645 in C
+found 647 in C
+found 649 in C
+found 651 in C
+found 653 in C
+found 655 in C
+found 657 in C
+found 659 in C
+found 661 in C
+found 663 in C
+found 665 in C
+found 667 in C
+found 669 in C
+found 671 in C
+found 673 in C
+found 675 in C
+found 677 in C
+found 679 in C
+found 681 in C
+found 683 in C
+found 685 in C
+found 687 in C
+found 689 in C
+found 691 in C
+found 693 in C
+found 695 in C
+found 697 in C
+found 699 in C
+found 701 in C
+found 703 in C
+found 705 in C
+found 707 in C
+found 709 in C
+found 711 in C
+found 713 in C
+found 715 in C
+found 717 in C
+found 719 in C
+found 721 in C
+found 723 in C
+found 725 in C
+found 727 in C
+found 729 in C
+found 731 in C
+found 733 in C
+found 735 in C
+found 737 in C
+found 739 in C
+found 741 in C
+found 743 in C
+found 745 in C
+found 747 in C
+found 749 in C
+found 751 in C
+found 753 in C
+found 755 in C
+found 757 in C
+found 759 in C
+found 761 in C
+found 763 in C
+found 765 in C
+found 767 in C
+found 769 in C
+found 771 in C
+found 773 in C
+found 775 in C
+found 777 in C
+found 779 in C
+found 781 in C
+found 783 in C
+found 785 in C
+found 787 in C
+found 789 in C
+found 791 in C
+found 793 in C
+found 795 in C
+found 797 in C
+found 799 in C
+found 801 in C
+found 803 in C
+found 805 in C
+found 807 in C
+found 809 in C
+found 811 in C
+found 813 in C
+found 815 in C
+found 817 in C
+found 819 in C
+found 821 in C
+found 823 in C
+found 825 in C
+found 827 in C
+found 829 in C
+found 831 in C
+found 833 in C
+found 835 in C
+found 837 in C
+found 839 in C
+found 841 in C
+found 843 in C
+found 845 in C
+found 847 in C
+found 849 in C
+found 851 in C
+found 853 in C
+found 855 in C
+found 857 in C
+found 859 in C
+found 861 in C
+found 863 in C
+found 865 in C
+found 867 in C
+found 869 in C
+found 871 in C
+found 873 in C
+found 875 in C
+found 877 in C
+found 879 in C
+found 881 in C
+found 883 in C
+found 885 in C
+found 887 in C
+found 889 in C
+found 891 in C
+found 893 in C
+found 895 in C
+found 897 in C
+found 899 in C
+found 901 in C
+found 903 in C
+found 905 in C
+found 907 in C
+found 909 in C
+found 911 in C
+found 913 in C
+found 915 in C
+found 917 in C
+found 919 in C
+found 921 in C
+found 923 in C
+found 925 in C
+found 927 in C
+found 929 in C
+found 931 in C
+found 933 in C
+found 935 in C
+found 937 in C
+found 939 in C
+found 941 in C
+found 943 in C
+found 945 in C
+found 947 in C
+found 949 in C
+found 951 in C
+found 953 in C
+found 955 in C
+found 957 in C
+found 959 in C
+found 961 in C
+found 963 in C
+found 965 in C
+found 967 in C
+found 969 in C
+found 971 in C
+found 973 in C
+found 975 in C
+found 977 in C
+found 979 in C
+found 981 in C
+found 983 in C
+found 985 in C
+found 987 in C
+found 989 in C
+found 991 in C
+found 993 in C
+found 995 in C
+found 997 in C
+found 999 in C
+Getting C's Complement
+Getting D Union B
+Comparing D to E
+D is not equal to E
+B is equal to F
+found 0 in G
+found 8 in G
+found 16 in G
+found 24 in G
+found 32 in G
+found 40 in G
+found 48 in G
+found 56 in G
+found 64 in G
+found 72 in G
+found 80 in G
+found 88 in G
+found 96 in G
+found 104 in G
+found 112 in G
+found 120 in G
+found 128 in G
+found 136 in G
+found 144 in G
+found 152 in G
+found 160 in G
+found 168 in G
+found 176 in G
+found 184 in G
+found 192 in G
+found 200 in G
+found 208 in G
+found 216 in G
+found 224 in G
+found 232 in G
+found 240 in G
+found 248 in G
+found 256 in G
+found 264 in G
+found 272 in G
+found 280 in G
+found 288 in G
+found 296 in G
+found 304 in G
+found 312 in G
+found 320 in G
+found 328 in G
+found 336 in G
+found 344 in G
+found 352 in G
+found 360 in G
+found 368 in G
+found 376 in G
+found 384 in G
+found 392 in G
+found 400 in G
+found 408 in G
+found 416 in G
+found 424 in G
+found 432 in G
+found 440 in G
+found 448 in G
+found 456 in G
+found 464 in G
+found 472 in G
+found 480 in G
+found 488 in G
+found 496 in G
+found 504 in G
+found 512 in G
+found 520 in G
+found 528 in G
+found 536 in G
+found 544 in G
+found 552 in G
+found 560 in G
+found 568 in G
+found 576 in G
+found 584 in G
+found 592 in G
+found 600 in G
+found 608 in G
+found 616 in G
+found 624 in G
+found 632 in G
+found 640 in G
+found 648 in G
+found 656 in G
+found 664 in G
+found 672 in G
+found 680 in G
+found 688 in G
+found 696 in G
+found 704 in G
+found 712 in G
+found 720 in G
+found 728 in G
+found 736 in G
+found 744 in G
+found 752 in G
+found 760 in G
+found 768 in G
+found 776 in G
+found 784 in G
+found 792 in G
+found 800 in G
+found 808 in G
+found 816 in G
+found 824 in G
+found 832 in G
+found 840 in G
+found 848 in G
+found 856 in G
+found 864 in G
+found 872 in G
+found 880 in G
+found 888 in G
+found 896 in G
+found 904 in G
+found 912 in G
+found 920 in G
+found 928 in G
+found 936 in G
+found 944 in G
+found 952 in G
+found 960 in G
+found 968 in G
+found 976 in G
+found 984 in G
+found 992 in G
+G is not equal to H
+I is empty
+27 is the size of A = { 0, 1, 2, 3, 4, 5, 7, 8, 9, 15, 16, 17, 31, 32, 33, 63, 64, 65, 127, 128, 129, 255, 256, 257, 511, 512, 513, }
+10 is the size of B = { 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, }
+500 is the size of C = { 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, ... }
+500 is the size of D = { 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, ... }
+501 is the size of E = { 0, 1, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, ... }
+10 is the size of F = { 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, }
+125 is the size of G = { 0, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, ... }
+8 is the size of H = { 0, 8, 16, 32, 64, 128, 256, 512, }
+0 is the size of I = { }
+8 is the size of J = { 0, 8, 16, 32, 64, 128, 256, 512, }
+992 is the size of K = { 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, ... }
+H = { 0, 8, 32, 64, 128, 256, 512, }
+B is subset A
+All subsets of H:
+{}
+{0,}
+{8,}
+{0,8,}
+{32,}
+{0,32,}
+{8,32,}
+{0,8,32,}
+{64,}
+{0,64,}
+{8,64,}
+{0,8,64,}
+{32,64,}
+{0,32,64,}
+{8,32,64,}
+{0,8,32,64,}
+{128,}
+{0,128,}
+{8,128,}
+{0,8,128,}
+{32,128,}
+{0,32,128,}
+{8,32,128,}
+{0,8,32,128,}
+{64,128,}
+{0,64,128,}
+{8,64,128,}
+{0,8,64,128,}
+{32,64,128,}
+{0,32,64,128,}
+{8,32,64,128,}
+{0,8,32,64,128,}
+{256,}
+{0,256,}
+{8,256,}
+{0,8,256,}
+{32,256,}
+{0,32,256,}
+{8,32,256,}
+{0,8,32,256,}
+{64,256,}
+{0,64,256,}
+{8,64,256,}
+{0,8,64,256,}
+{32,64,256,}
+{0,32,64,256,}
+{8,32,64,256,}
+{0,8,32,64,256,}
+{128,256,}
+{0,128,256,}
+{8,128,256,}
+{0,8,128,256,}
+{32,128,256,}
+{0,32,128,256,}
+{8,32,128,256,}
+{0,8,32,128,256,}
+{64,128,256,}
+{0,64,128,256,}
+{8,64,128,256,}
+{0,8,64,128,256,}
+{32,64,128,256,}
+{0,32,64,128,256,}
+{8,32,64,128,256,}
+{0,8,32,64,128,256,}
+{512,}
+{0,512,}
+{8,512,}
+{0,8,512,}
+{32,512,}
+{0,32,512,}
+{8,32,512,}
+{0,8,32,512,}
+{64,512,}
+{0,64,512,}
+{8,64,512,}
+{0,8,64,512,}
+{32,64,512,}
+{0,32,64,512,}
+{8,32,64,512,}
+{0,8,32,64,512,}
+{128,512,}
+{0,128,512,}
+{8,128,512,}
+{0,8,128,512,}
+{32,128,512,}
+{0,32,128,512,}
+{8,32,128,512,}
+{0,8,32,128,512,}
+{64,128,512,}
+{0,64,128,512,}
+{8,64,128,512,}
+{0,8,64,128,512,}
+{32,64,128,512,}
+{0,32,64,128,512,}
+{8,32,64,128,512,}
+{0,8,32,64,128,512,}
+{256,512,}
+{0,256,512,}
+{8,256,512,}
+{0,8,256,512,}
+{32,256,512,}
+{0,32,256,512,}
+{8,32,256,512,}
+{0,8,32,256,512,}
+{64,256,512,}
+{0,64,256,512,}
+{8,64,256,512,}
+{0,8,64,256,512,}
+{32,64,256,512,}
+{0,32,64,256,512,}
+{8,32,64,256,512,}
+{0,8,32,64,256,512,}
+{128,256,512,}
+{0,128,256,512,}
+{8,128,256,512,}
+{0,8,128,256,512,}
+{32,128,256,512,}
+{0,32,128,256,512,}
+{8,32,128,256,512,}
+{0,8,32,128,256,512,}
+{64,128,256,512,}
+{0,64,128,256,512,}
+{8,64,128,256,512,}
+{0,8,64,128,256,512,}
+{32,64,128,256,512,}
+{0,32,64,128,256,512,}
+{8,32,64,128,256,512,}
+{0,8,32,64,128,256,512,}
